@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Nopcommerce" verbose="1" >
+
+    <test name="Run on firefox brower" >
+        <parameter name="brower" value="firefox"></parameter>
+        <parameter name="Version" value="128"></parameter>
+        <classes>
+            <class name="testNG.Topic_9_Parameter" />
+        </classes>
+    </test>
+
+    <test name="Run on chrome brower" >
+        <parameter name="brower" value="chrome"></parameter>
+        <parameter name="Version" value="127"></parameter>
+        <classes>
+            <class name="testNG.Topic_9_Parameter" />
+        </classes>
+    </test>
+
+
+</suite>

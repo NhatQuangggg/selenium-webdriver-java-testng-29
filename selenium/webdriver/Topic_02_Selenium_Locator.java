@@ -1,3 +1,4 @@
+/*
 package webdriver;
 
 import org.openqa.selenium.By;
@@ -31,9 +32,11 @@ public class Topic_02_Selenium_Locator {
     // TestNG: Order testcase theo Alphabet (0-9 A-Z)
     // First name textbox - HTML Code
     // HTML Element: <tagname attribute_name_1 = 'attribute_value' attribute_name_2= 'attribute_value'...>
-    /*
-    * <input type="text" data-val="true" data -val-required="First name is required." id="FirstName" name ="FirstName">
     */
+/*
+    * <input type="text" data-val="true" data -val-required="First name is required." id="FirstName" name ="FirstName">
+    *//*
+
 
     // C: Class
     // m: Menthod
@@ -120,3 +123,4 @@ public class Topic_02_Selenium_Locator {
         driver.quit();
     }
 }
+*/

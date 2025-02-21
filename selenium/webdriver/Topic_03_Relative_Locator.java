@@ -1,3 +1,4 @@
+/*
 package webdriver;
 
 import org.openqa.selenium.By;
@@ -46,3 +47,4 @@ public class Topic_03_Relative_Locator {
         driver.quit();
     }
 }
+*/

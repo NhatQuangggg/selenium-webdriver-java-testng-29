@@ -1,3 +1,4 @@
+/*
 package webdriver;
 
 import org.openqa.selenium.WebDriver;
@@ -48,3 +49,4 @@ public class Topic_00_Template {
         driver.quit();
     }
 }
+*/
